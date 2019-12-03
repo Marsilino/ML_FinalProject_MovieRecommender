@@ -45,7 +45,7 @@ Created a dataframe for each movie and the number of ratings in order to calcula
 
 Used seaborn plot to validate if the average rating is higher if the number of ratings is higher. From the seaborn plot below, a positive correlation can be observed between the two.
 
-![alt text](https://github.com/Marsilino/ML_FinalProject_MovieRecommender/edit/master/plot1.png "Correlation Plot")
+![alt text](https://github.com/Marsilino/ML_FinalProject_MovieRecommender/blob/master/plot1.jpg "Correlation Plot")
 
 
 A movie rating matrix was created logging users against the movie titles using the pandas pivot table functions.
